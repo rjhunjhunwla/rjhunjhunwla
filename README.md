@@ -1,9 +1,9 @@
 <img src="bio.jpeg" alt="drawing" width="200"/>
 
 - 👋 Hi, I am Rohit Jhunjhunwala, Indian by birth currently living in Berlin Germany. I work on technologies to touch lives of billions of people across world and hopefully make a small positive impact 
-- 👀 I’m interested in web3, decentralization, building organizations with people first approach. 
-- 🌱 I’m currently learning all things web3 at Affinidi, where we are building tools and platforms to transform web2 world to web3 one step at a time
-- 💞️ I’m looking to collaborate on web3, team building
+- 👀 I’m interested in distributed systems, decentralization, large scale data processing, building organizations with people first approach. 
+- 🌱 I’m currently learning all things decentralized and distributed at Affinidi, where we are building tools and platforms to give Users control of their data one step at a time
+- 💞️ I’m looking to collaborate on decentralization, privacy aware data processing, high performing engineering culture and methodologies , team building
 - 📫 I'm on twitter @rjhunjhunwla
 
 
